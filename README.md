@@ -29,8 +29,24 @@ Atharva Dhore
 
 ## Preview
 
-![Login](./screenshots/login.png)
-![Dashboard](./screenshots/dashboard.png)
-![Attendance](./screenshots/attendance.png)
-![History](./screenshots/history.png)
-![Profile](./screenshots/profile.png)
+### Admin Side
+
+![Admin Dashboard](./screenshots/Admin%20Dashboard.jpeg)
+
+![Attendance Report](./screenshots/Attendance%20Report.jpeg)
+
+![Generate QR](./screenshots/Generate%20QR.jpeg)
+
+![Settings](./screenshots/setting.jpeg)
+
+---
+
+### Student Side
+
+![Student Dashboard](./screenshots/student%20dashboard.jpeg)
+
+![Student Attendance](./screenshots/Student%20Attendance.jpeg)
+
+![Attendance History](./screenshots/Attendance%20History.jpeg)
+
+![Scan QR](./screenshots/scan%20qr.jpeg)
