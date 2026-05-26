@@ -7,10 +7,12 @@ A mobile-based Smart Attendance System developed using Flutter and Firebase for 
 - Mark Attendance
 - Attendance Tracking
 - Attendance History
+- QR Code Attendance System
+- Generate QR Codes
+- Scan QR Codes
 - Firebase Integration
 - Real-Time Data Storage
 - Clean UI Design
-- Mobile Responsive Interface
 
 ## Tech Stack
 - Flutter
@@ -19,10 +21,7 @@ A mobile-based Smart Attendance System developed using Flutter and Firebase for 
 - Android Studio
 
 ## APK Download
-https://drive.google.com/file/d/1BCT0NBu3EbJbhjITAp_7DR_fQseeTEtZ/view?usp=drivesdk
-
-## Demo Video
-PASTE_YOUR_YOUTUBE_LINK_HERE
+[Download APK](https://drive.google.com/file/d/1BCT0NBu3EbJbhjITAp_7DR_fQseeTEtZ/view?usp=drivesdk)
 
 ## Author
 Atharva Dhore
