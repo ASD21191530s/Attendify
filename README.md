@@ -30,22 +30,22 @@ Atharva Dhore
 
 ### Admin Side
 
-![Admin Dashboard](./Attendify/screenshots/AdminDashboard.jpeg)
+<img src="./Attendify/screenshots/AdminDashboard.jpeg" width="250">
 
-![Attendance Report](./screenshots/AttendanceReport.jpeg)
+<img src="./Attendify/screenshots/AttendanceReport.jpeg" width="250">
 
-![Generate QR](./screenshots/GenerateQR.jpeg)
+<img src="./Attendify/screenshots/GenerateQR.jpeg" width="250">
 
-![Settings](./screenshots/setting.jpeg)
+<img src="./Attendify/screenshots/setting.jpeg" width="250">
 
 ---
 
 ### Student Side
 
-![Student Dashboard](./screenshots/studentdashboard.jpeg)
+<img src="./Attendify/screenshots/studentdashboard.jpeg" width="250">
 
-![Student Attendance](./screenshots/StudentAttendance.jpeg)
+<img src="./Attendify/screenshots/StudentAttendance.jpeg" width="250">
 
-![Attendance History](./screenshots/AttendanceHistory.jpeg)
+<img src="./Attendify/screenshots/AttendanceHistory.jpeg" width="250">
 
-![Scan QR](./screenshots/scanqr.jpeg)
+<img src="./Attendify/screenshots/scanqr.jpeg" width="250">
