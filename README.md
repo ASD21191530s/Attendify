@@ -31,7 +31,7 @@ Atharva Dhore
 
 ### Admin Side
 
-![Admin Dashboard](./screenshots/Admin Dashboard.jpeg)
+![Admin Dashboard](./screenshots/AdminDashboard.jpeg)
 
 ![Attendance Report](./screenshots/AttendanceReport.jpeg)
 
