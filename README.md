@@ -31,11 +31,11 @@ Atharva Dhore
 
 ### Admin Side
 
-![Admin Dashboard](./screenshots/Admin%20Dashboard.jpeg)
+![Admin Dashboard](./screenshots/AdminDashboard.jpeg)
 
-![Attendance Report](./screenshots/Attendance%20Report.jpeg)
+![Attendance Report](./screenshots/AttendanceReport.jpeg)
 
-![Generate QR](./screenshots/Generate%20QR.jpeg)
+![Generate QR](./screenshots/GenerateQR.jpeg)
 
 ![Settings](./screenshots/setting.jpeg)
 
@@ -43,10 +43,10 @@ Atharva Dhore
 
 ### Student Side
 
-![Student Dashboard](./screenshots/student%20dashboard.jpeg)
+![Student Dashboard](./screenshots/studentdashboard.jpeg)
 
-![Student Attendance](./screenshots/Student%20Attendance.jpeg)
+![Student Attendance](./screenshots/StudentAttendance.jpeg)
 
-![Attendance History](./screenshots/Attendance%20History.jpeg)
+![Attendance History](./screenshots/AttendanceHistory.jpeg)
 
-![Scan QR](./screenshots/scan%20qr.jpeg)
+![Scan QR](./screenshots/scanqr.jpeg)
